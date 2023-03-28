@@ -1,7 +1,5 @@
 <?php
 
-
-
 $apikey="rzp_test_42JJvVfdfVoPzQ";
 ?>
 <form action="" method="POST">
